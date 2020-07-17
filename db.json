@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "title": "Why is jazz music so relaxing?",
+      "options": [
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": true },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false }
+        ]
+    },
+    {
+      "title": "What do you think about me?",
+      "options": [
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": true },
+          { "title": "I do not really know.", "trueOrNot": false }
+        ]
+    },
+    {
+      "title": "Why are we here?",
+      "options": [
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": true },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false }
+        ]
+    },
+    {
+      "title": "Are you thinking what I'm thinking?",
+      "options": [
+          { "title": "I do not really know.", "trueOrNot": true },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false }
+        ]
+    },
+    {
+      "title": "Is everything even?",
+      "options": [
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": false },
+          { "title": "I do not really know.", "trueOrNot": true },
+          { "title": "I do not really know.", "trueOrNot": false }
+        ]
+    }
+  ]
+}
